@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "text": "Church",
+      "day": "sunday 16th ",
+      "reminder": true,
+      "id": 1
+    }
+  ],
+  "goat": [
+    {
+      "id": 1,
+      "friends": {
+        "males": [
+          "john",
+          "tunde"
+        ],
+        "females": [
+          "favour",
+          "gift"
+        ]
+      }
+    }
+  ]
+}
